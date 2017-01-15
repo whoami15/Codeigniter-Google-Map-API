@@ -1,4 +1,14 @@
 <?php
+
+/*
+*  Codeigniter Google Map API
+* @ Developer: Daryl Ferrer Legion
+* @ Email: whoamisnowden@gmail.com
+* @ Github: github.com/whoami15
+* @ Copyright (c) 2016-2017
+* @ License GNU Public Release
+*/
+
 class Mapmodel extends CI_Model {
 
     var $table = 'yourtablename'; // table name here.
